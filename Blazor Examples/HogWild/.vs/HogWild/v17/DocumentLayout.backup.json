@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|c:\\users\\ian\\documents\\nait\\casual instructor\\winter 2026\\dmit2018 - oe01\\hogwild 2\\hogwild\\hogwildapp\\components\\pages\\samplepages\\basics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|solutionrelative:hogwildapp\\components\\pages\\samplepages\\basics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|c:\\users\\ian\\documents\\nait\\casual instructor\\winter 2026\\dmit2018 - oe01\\hogwild 2\\hogwild\\hogwildapp\\components\\pages\\samplepages\\basics.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|solutionrelative:hogwildapp\\components\\pages\\samplepages\\basics.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|c:\\users\\ian\\documents\\nait\\casual instructor\\winter 2026\\dmit2018 - oe01\\hogwild 2\\hogwild\\hogwildapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|solutionrelative:hogwildapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|c:\\users\\ian\\documents\\nait\\casual instructor\\winter 2026\\dmit2018 - oe01\\hogwild 2\\hogwild\\hogwildapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDDE066-A448-627A-E392-94E774102483}|HogWildApp\\HogWildApp.csproj|solutionrelative:hogwildapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "HogWildApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "HogWildApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T20:53:51.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basics.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "RelativeDocumentMoniker": "HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "RelativeToolTip": "HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:53:36.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basics.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor",
+              "RelativeDocumentMoniker": "HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor",
+              "RelativeToolTip": "HogWildApp\\Components\\Pages\\SamplePages\\Basics.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T20:51:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HogWildApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Casual Instructor\\Winter 2026\\DMIT2018 - OE01\\HogWild 2\\HogWild\\HogWildApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HogWildApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T20:50:37.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
